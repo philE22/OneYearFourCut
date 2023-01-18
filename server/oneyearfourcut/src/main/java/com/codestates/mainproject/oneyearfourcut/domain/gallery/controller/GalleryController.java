@@ -55,4 +55,5 @@ public class GalleryController {
 
         return new ResponseEntity("전시관 삭제 성공", HttpStatus.NO_CONTENT);
     }
+
 }
